@@ -29,13 +29,9 @@ The system uses a **console-based interface** where users can:
 ## ⚡ Future Improvements
 
 - Add **transaction history**   
-
 - Add **multiple account support**
-
 - Add **transfer between accounts**
-
 - Implement **interest calculation for savings accounts**
-
 - Create a **GUI version**
   
 ---
